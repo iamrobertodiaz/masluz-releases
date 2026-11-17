@@ -1,35 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Más Luz</title>
+        <title>MasLuz</title>
         <item>
             <title>1.0.3</title>
-            <pubDate>Mon, 16 Nov 2026 16:40:59 -0800</pubDate>
+            <pubDate>Mon, 16 Nov 2026 16:41:20 -0800</pubDate>
             <sparkle:version>7192</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <description><![CDATA[<p>Más Luz 1.0.3: license storage that survives updates, schedule and panel fixes, 14-day XDR trial.</p>
 ]]></description>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz-1.0.3.dmg" length="16778935" type="application/octet-stream" sparkle:edSignature="jbxHol9Lm1QTKYrhR+SEaQ4m5onQG6ZmUNiOyK25gQiq7pTKScjXbGmPleMm6iNpeCVQb6hnuq8G0LBFV5A0CQ=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 16 Nov 2026 16:40:32 -0800</pubDate>
-            <sparkle:version>7182</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz-1.0.1.dmg" length="17453511" type="application/octet-stream" sparkle:edSignature="iBttjAtDAfE6gTRPvgZeU1JtpvgKZ23JxL3iANS0kvP7RKlDhVYfuIE7anMH61PFS3wFyXlTo7/PtkCUBF0oCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz7182-7181.delta" sparkle:deltaFrom="7181" length="6526" type="application/octet-stream" sparkle:edSignature="JqcFtSLUzyblwtNgfor0JIgCdiOCffBDZC3yCpTWDnnN7Wcv/871ejuyvi6RmrIeALMAA9/ue/hGZhwHczbYBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 16 Nov 2026 12:29:28 -0800</pubDate>
-            <sparkle:version>7181</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz-1.0.0.dmg" length="17456109" type="application/octet-stream" sparkle:edSignature="iKANzFuk38M15TDIsyYlbelgjlH2De//tVjuhdoIGZpTM1D0DdvCXUkurgzA/CmiHIdNEey/7+hj7Pfnz/JKBA=="/>
         </item>
     </channel>
 </rss>
