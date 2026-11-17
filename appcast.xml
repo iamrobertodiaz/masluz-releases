@@ -4,10 +4,10 @@
         <title>MasLuz</title>
         <item>
             <title>1.0.4</title>
-            <pubDate>Mon, 16 Nov 2026 16:48:06 -0800</pubDate>
+            <pubDate>Mon, 16 Nov 2026 17:16:02 -0800</pubDate>
             <sparkle:version>7193</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <description><![CDATA[<p>Más Luz 1.0.4: paid XDR boost activation, license recovery that survives unsigned updates, schedule and panel fixes. Basic brightness controls remain free.</p>
+            <description><![CDATA[<p>Más Luz 1.0.4: smoother first launch and reliable license storage.</p>
 ]]></description>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz-1.0.4.dmg" length="16756028" type="application/octet-stream" sparkle:edSignature="QpHjEYnVwTS2YYQ9V1wVEkbnTpaaCZ5DuWkOznhM8cspFbbRXVJ94C1mVU5fnmpYWKFzdo9ik7ZwLdtpBa8kBQ=="/>
