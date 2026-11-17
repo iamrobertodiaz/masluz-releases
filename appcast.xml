@@ -3,6 +3,16 @@
     <channel>
         <title>Más Luz</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Mon, 16 Nov 2026 16:40:59 -0800</pubDate>
+            <sparkle:version>7192</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <description><![CDATA[<p>Más Luz 1.0.3: license storage that survives updates, schedule and panel fixes, 14-day XDR trial.</p>
+]]></description>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz-1.0.3.dmg" length="16778935" type="application/octet-stream" sparkle:edSignature="jbxHol9Lm1QTKYrhR+SEaQ4m5onQG6ZmUNiOyK25gQiq7pTKScjXbGmPleMm6iNpeCVQb6hnuq8G0LBFV5A0CQ=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 16 Nov 2026 16:40:32 -0800</pubDate>
             <sparkle:version>7182</sparkle:version>
