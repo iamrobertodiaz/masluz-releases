@@ -3,14 +3,14 @@
     <channel>
         <title>MasLuz</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Mon, 16 Nov 2026 17:16:02 -0800</pubDate>
-            <sparkle:version>7193</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <description><![CDATA[<p>Más Luz 1.0.4: smoother first launch and reliable license storage.</p>
+            <title>1.0.5</title>
+            <pubDate>Mon, 16 Nov 2026 17:29:20 -0800</pubDate>
+            <sparkle:version>7195</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <description><![CDATA[<p>Más Luz 1.0.5: the accessibility prompt appears only once; polish.</p>
 ]]></description>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz-1.0.4.dmg" length="16756028" type="application/octet-stream" sparkle:edSignature="QpHjEYnVwTS2YYQ9V1wVEkbnTpaaCZ5DuWkOznhM8cspFbbRXVJ94C1mVU5fnmpYWKFzdo9ik7ZwLdtpBa8kBQ=="/>
+            <enclosure url="https://github.com/iamrobertodiaz/masluz-releases/releases/download/downloads/MasLuz-1.0.5.dmg" length="16755588" type="application/octet-stream" sparkle:edSignature="y7Ek4J7zzumaFfhWHn4blDCfSz6OrqzWRiyhbPT5kwNRWeY2I8hPvUYlJaWfuBN/VOrWJbgsEX0KzgA6I5EpAQ=="/>
         </item>
     </channel>
 </rss>
